@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="artplTestTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/artplTestTask_jar</output-path>
+    <root id="archive" name="artplTestTask.jar">
+      <element id="module-output" name="artplTestTask" />
+    </root>
+  </artifact>
+</component>
